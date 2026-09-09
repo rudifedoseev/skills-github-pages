@@ -2,4 +2,4 @@
 title: Welcome to my blog fellas!
 ---
 
-Rudi Fedosseev how are you!
+Rudi Fedoseev how are you!
