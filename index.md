@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog!
+title: Welcome to my blog fellas!
 ---
 
-Rudi Fedosseev
+Rudi Fedosseev how are you!
